@@ -1,2 +1,1 @@
-# tindog
-Website created with the help of bootstrap5. 
+TinDog Starting Files
